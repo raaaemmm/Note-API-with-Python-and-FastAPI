@@ -54,7 +54,7 @@ notes-api/
 1. Clone the repository
 ```bash
 git clone https://github.com/raaaemmm/Note-API-with-Python-and-FastAPI.git
-cd notes-api
+cd Note-API-with-Python-and-FastAPI
 ```
 
 2. Create and activate virtual environment

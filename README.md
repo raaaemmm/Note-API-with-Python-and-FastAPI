@@ -122,12 +122,8 @@ curl -X POST http://localhost:8000/api/notes \
 
 ## 🔮 Roadmap & Future Improvements
 
-- [ ] 🔐 User Authentication
-- [ ] 📄 Pagination Support
 - [ ] 🔍 Advanced Filtering
-- [ ] 🐳 Docker Containerization
 - [ ] 🧪 Comprehensive Testing
-- [ ] 📊 Analytics and Insights
 
 ## 🤝 Contributing
 
